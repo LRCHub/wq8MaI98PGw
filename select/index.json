@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "初恋",
+  "base_artist": "Lucky Kilimanjaro",
+  "createdAt": "2026-04-05T02:03:16.538327Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "初恋",
+      "artist": "Anly",
+      "has_synced": true,
+      "path": "select/01_初恋_Anly.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "初恋 limited",
+      "artist": "marble",
+      "has_synced": true,
+      "path": "select/02_初恋_limited_marble.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "初恋",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/03_初恋_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "初恋",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/04_初恋_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hatsukoi [初恋]",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/05_Hatsukoi_[初恋]_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "初恋",
+      "artist": "中島 美嘉",
+      "has_synced": false,
+      "path": "select/06_初恋_中島_美嘉.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "初恋",
+      "artist": "Flower",
+      "has_synced": false,
+      "path": "select/07_初恋_Flower.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hatsukoi (初恋)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/08_Hatsukoi_(初恋)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "初恋",
+      "artist": "KAMI WA SAIKORO WO FURANAI feat. Ayuni D & n-buna",
+      "has_synced": false,
+      "path": "select/09_初恋_KAMI_WA_SAIKORO_WO_FURANAI_feat._Ayuni_D_&_n-buna.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "初恋",
+      "artist": "eill",
+      "has_synced": true,
+      "path": "select/10_初恋_eill.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "初恋 (TVアニメ「月がきれい」EDIT ver.)",
+      "artist": "東山奈央",
+      "has_synced": true,
+      "path": "select/11_初恋_(TVアニメ「月がきれい」EDIT_ver.)_東山奈央.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "初恋",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/12_初恋_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "FIRST LOVE (初恋)",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/13_FIRST_LOVE_(初恋)_EXO.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "染まったんだ ~初恋~",
+      "artist": "YESUNG",
+      "has_synced": true,
+      "path": "select/14_染まったんだ_~初恋~_YESUNG.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "初恋",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/15_初恋_aiko.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "初恋",
+      "artist": "Mika Nakashima",
+      "has_synced": true,
+      "path": "select/16_初恋_Mika_Nakashima.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "初恋",
+      "artist": "中島美嘉",
+      "has_synced": true,
+      "path": "select/17_初恋_中島美嘉.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "初恋",
+      "artist": "Koji Tamaki",
+      "has_synced": true,
+      "path": "select/18_初恋_Koji_Tamaki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "初恋",
+      "artist": "Lucky Kilimanjaro",
+      "has_synced": false,
+      "path": "select/pl_01_初恋_Lucky_Kilimanjaro.txt"
+    }
+  ]
+}
